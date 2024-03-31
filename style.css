@@ -5,13 +5,11 @@
 }
 
 body{
-<<<<<<< HEAD
     width: 90%;
     background: #0c111b;
-=======
+
     width: 100%;
     background: #0b0e15;
->>>>>>> 7271a9ddbdfc0a418c5f87230e04d2580e98ebda
     position: relative;
     font-family: roboto,sans-sarif;
 }
